@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hey 👋, I'm kyu-suke/apmewj
 
+I'm prototyper.
+I make stuff until it just works, can't sophisticate it, never.
+
+## Interest / Learning
+
+* flutter/dart
 <!--
-**kyu-suke/kyu-suke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* VR/AR/XR
+* Unity/Unreal Engine
+* Native Apps
+* UI design
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyu-suke&hide=html)
+![kyu-suke's github stats](https://github-readme-stats.vercel.app/api?username=kyu-suke&show_icons=true&count_private=true&line_height=40)
+
+## github pages
+
+- https://kyu-suke.github.io/
