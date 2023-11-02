@@ -13,8 +13,8 @@ I make stuff until it just works, can't sophisticate it, never.
 * UI design
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyu-suke&hide=html)
-![kyu-suke's github stats](https://github-readme-stats.vercel.app/api?username=kyu-suke&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats-lcqmo9wsu-ykaneoka7.vercel.app/api/top-langs/?username=kyu-suke&hide=html)
+![kyu-suke's github stats](https://github-readme-stats-lcqmo9wsu-ykaneoka7.vercel.app/api?username=kyu-suke&show_icons=true&count_private=true&line_height=40)
 
 ## github pages
 
